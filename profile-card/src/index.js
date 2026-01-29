@@ -45,7 +45,9 @@ function App() {
 }
 
 function Avatar() {
-  return <img />;
+  return (
+    <img src="Christmas selfie.jpg" className="avatar" alt="TheArisAngelo" />
+  );
 }
 
 function Intro() {
