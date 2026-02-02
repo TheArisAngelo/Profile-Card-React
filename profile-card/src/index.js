@@ -54,7 +54,7 @@ function Intro() {
   return (
     <div>
       <h1>TheArisAngelo</h1>
-      <p>Introduction</p>
+      <p>Front-end Web Developer at Silver Goose 8 International. Currently diving into JavaScript and modern frameworks to grow my skills and build dynamic web experiences.</p>
     </div>
   );
 }
